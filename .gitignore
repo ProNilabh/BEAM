@@ -1,0 +1,17 @@
+ 
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# MLflow & Large Data
+mlruns/
+mlflow.db
+*.csv
+*.xlsx
+*.ubj
+
+# OS
+.DS_Store
+Thumbs.db
